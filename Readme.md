@@ -17,3 +17,4 @@ cmake ..
 make && ./tinyraytracer && eog out.jpg
 ```
 You can now observe this piece of art!
+![out_final](https://user-images.githubusercontent.com/62764644/154859379-4b0b19ec-c545-45ca-b999-93eb8e08aa96.jpg)
